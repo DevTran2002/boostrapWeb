@@ -1,0 +1,34 @@
+
+
+{
+        "posts": [
+                {
+                        "id": 1,
+                        "img": "https://demo.athemes.com/sydney/wp-content/uploads/sites/103/2019/10/post_3.png",
+                        "title": "How it all began",
+                        "body": "Random gibberish text to use in web pages, site templates and in typography demos. Get rid of Lorem Ipsum forever. A tool […]"
+                },               
+                {
+                        "id": 1,
+                        "img": "https://demo.athemes.com/sydney/wp-content/uploads/sites/103/2019/10/post_1.png",
+                        "title": "Don’t miss our next event",
+                        "body": "Random gibberish text to use in web pages, site templates and in typography demos. Get rid of Lorem Ipsum forever. A tool […]"
+                },               
+                {
+                        "id": 1,
+                        "img": "https://demo.athemes.com/sydney/wp-content/uploads/sites/103/2019/10/post_2.png",
+                        "title": "A day at the office",
+                        "body": "Random gibberish text to use in web pages, site templates and in typography demos. Get rid of Lorem Ipsum forever. A tool […]"
+                } ,     
+                {
+                        "id": 1,
+                        "img": "https://demo.athemes.com/sydney/wp-content/uploads/sites/103/2019/10/post_2.png",
+                        "title": "A day at the office",
+                        "body": "Random gibberish text to use in web pages, site templates and in typography demos. Get rid of Lorem Ipsum forever. A tool […]"
+                }      
+        ],
+        "comments": [
+          { "id": 1, "body": "some comment", "postId": 1 }
+        ],
+        "profile": { "name": "typicode" }
+}
